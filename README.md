@@ -17,6 +17,12 @@ Dropbox Contains:
 
 Full Subreddit Dumps can be downloaded using "Download_AskReddit_AskMen_AskWomen_dumps.ipynb" script
 
+"AskWomen_Preprocessed_comments.csv" - preprocessed AskWomen dataset used for word2vec training
+
+
+
+
+
 "known_shifts.csv" - with custom dataset of terms with meaning before and after 
 
 "SimLex-999.zip" - Simlex dataset
