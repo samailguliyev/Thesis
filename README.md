@@ -10,7 +10,9 @@ Dropbox Contains:
 "Models.zip" - all word2vec models trained
 
 "AskWomen_Sampled_10_million.zip" - with 10 million comments for AskWomen
+
 "AskMen_Sampled_10_million.zip" - with 10 million comments for AskMen
+
 "AskReddit_Sampled_42_million.zip" - with 42 million comments for AskReddit
 
 Full Subreddit Dumps can be downloaded using "Download_AskReddit_AskMen_AskWomen_dumps.ipynb" script
