@@ -19,6 +19,8 @@ Full Subreddit Dumps can be downloaded using "Download_AskReddit_AskMen_AskWomen
 
 "AskWomen_Preprocessed_comments.csv" - preprocessed AskWomen dataset used for word2vec training
 
+"AskMen_Preprocessed_comments.csv" - preprocessed AskMen dataset used for word2vec training
+
 
 
 
